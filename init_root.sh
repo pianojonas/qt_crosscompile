@@ -12,7 +12,7 @@ RASPI_USER="pi"
 RASPI_QT_DIR="/usr/local/qt5pi"
 
 HOST_RASPI_DIR="/opt/raspi"
-HOST_QT_DIR="/opt/Qt/5.10.0"
+HOST_QT_DIR="/opt/Qt/5.10.1"
 
 # Stop edit here if you are mortal --<
 
