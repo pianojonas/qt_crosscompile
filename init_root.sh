@@ -7,7 +7,7 @@
 ###############################################################################################################
 # Start edit your settings here -->
 
-RASPI_HOSTNAME="tut"
+RASPI_HOSTNAME="raspberrypi"
 RASPI_USER="pi"
 RASPI_QT_DIR="/usr/local/qt5pi"
 
